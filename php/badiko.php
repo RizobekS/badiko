@@ -554,7 +554,7 @@ header("content-type; text/httml; charset=utf-8");
             <div class="gmap">
 
                 <address class="gmap-address">
-                    <p class="color-heading margin-b-0">Узбекистан Ташкент Чиланзар улица Бунёдкор 15</p>
+                    <p class="color-heading margin-b-0">Узбекистан Ташкент Чиланзар улица Бунёдкор</p>
                 </address>
             </div>
             <!-- End Google Map -->
@@ -571,10 +571,10 @@ header("content-type; text/httml; charset=utf-8");
                         <div class="col-sm-2 sm-margin-b-30">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a href="vk.com/"><img src="img/icons/vk32.png" align="middle" style="margin-right: 5px">VK</a></li>
-                                <li class="footer-list-item"><a href="facebook.com/"><img src="img/icons/facebook32.png" align="middle" style="margin-right: 5px">FACEBOOK</a></li>
-                                <li class="footer-list-item"><a href="instagram.com/"><img src="img/icons/instagram32.png" align="middle" style="margin-right: 5px">INSTAGRAM</a></li>
-                                <li class="footer-list-item"><a href="youtube.com/"><img src="img/icons/youtube.png" width="32px" height="32px" align="middle" style="margin-right: 5px">YOUTUBE</a></li>
+                                <li class="footer-list-item"><a href="vk.com/"><img src="../img/icons/vk32.png" align="middle" style="margin-right: 5px">VK</a></li>
+                                <li class="footer-list-item"><a href="facebook.com/"><img src="../img/icons/facebook32.png" align="middle" style="margin-right: 5px">FACEBOOK</a></li>
+                                <li class="footer-list-item"><a href="instagram.com/"><img src="../img/icons/instagram32.png" align="middle" style="margin-right: 5px">INSTAGRAM</a></li>
+                                <li class="footer-list-item"><a href="youtube.com/"><img src="../img/icons/youtube.png" width="32px" height="32px" align="middle" style="margin-right: 5px">YOUTUBE</a></li>
                             </ul>
                             <!-- End List -->
                     
@@ -601,28 +601,28 @@ header("content-type; text/httml; charset=utf-8");
 
         <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
         <!-- CORE PLUGINS -->
-        <script src="vendor/jquery.min.js" type="text/javascript"></script>
-        <script src="vendor/jquery-migrate.min.js" type="text/javascript"></script>
-        <script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="../vendor/jquery.min.js" type="text/javascript"></script>
+        <script src="../vendor/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="../vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
         <!-- PAGE LEVEL PLUGINS -->
-        <script src="vendor/jquery.easing.js" type="text/javascript"></script>
-        <script src="vendor/jquery.back-to-top.js" type="text/javascript"></script>
-        <script src="vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
-        <script src="vendor/jquery.wow.min.js" type="text/javascript"></script>
-        <script src="vendor/swiper/js/swiper.jquery.min.js" type="text/javascript"></script>
-        <script src="vendor/magnific-popup/jquery.magnific-popup.min.js" type="text/javascript"></script>
-        <script src="vendor/masonry/jquery.masonry.pkgd.min.js" type="text/javascript"></script>
-        <script src="vendor/masonry/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+        <script src="../vendor/jquery.easing.js" type="text/javascript"></script>
+        <script src="../vendor/jquery.back-to-top.js" type="text/javascript"></script>
+        <script src="../vendor/jquery.smooth-scroll.js" type="text/javascript"></script>
+        <script src="../vendor/jquery.wow.min.js" type="text/javascript"></script>
+        <script src="../vendor/swiper/js/swiper.jquery.min.js" type="text/javascript"></script>
+        <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js" type="text/javascript"></script>
+        <script src="../vendor/masonry/jquery.masonry.pkgd.min.js" type="text/javascript"></script>
+        <script src="../vendor/masonry/imagesloaded.pkgd.min.js" type="text/javascript"></script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U&amp;callback=initMap" async defer></script>
 
         <!-- PAGE LEVEL SCRIPTS -->
-        <script src="js/layout.min.js" type="text/javascript"></script>
-        <script src="js/components/wow.min.js" type="text/javascript"></script>
-        <script src="js/components/swiper.min.js" type="text/javascript"></script>
-        <script src="js/components/maginific-popup.min.js" type="text/javascript"></script>
-        <script src="js/components/masonry.min.js" type="text/javascript"></script>
-        <script src="js/components/gmap.min.js" type="text/javascript"></script>
+        <script src="../js/layout.min.js" type="text/javascript"></script>
+        <script src="../js/components/wow.min.js" type="text/javascript"></script>
+        <script src="../js/components/swiper.min.js" type="text/javascript"></script>
+        <script src="../js/components/maginific-popup.min.js" type="text/javascript"></script>
+        <script src="../js/components/masonry.min.js" type="text/javascript"></script>
+        <script src="../js/components/gmap.min.js" type="text/javascript"></script>
 
     </body>
     <!-- END BODY -->
