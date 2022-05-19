@@ -28,8 +28,8 @@ header("content-type; text/httml; charset=utf-8");
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="favicon.ico"/>
-        <link rel="icon" href="./img/icon_B.jpg" type="image/x-icon"> 
-        <link rel="shortcut icon" href="./img/icon_B.jpg" type="image/x-icon">
+        <link rel="icon" href="../img/icon_B.jpg" type="image/x-icon"> 
+        <link rel="shortcut icon" href="../img/icon_B.jpg" type="image/x-icon">
     </head>
     <!-- END HEAD -->
 
